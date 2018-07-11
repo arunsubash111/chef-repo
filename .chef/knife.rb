@@ -7,3 +7,8 @@ node_name                "asubash"
 client_key               "#{current_dir}/asubash.pem"
 chef_server_url          "https://api.chef.io/organizations/sandbox123"
 cookbook_path            ["#{current_dir}/../cookbooks"]
+
+
+
+
+
